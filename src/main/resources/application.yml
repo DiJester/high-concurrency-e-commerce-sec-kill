@@ -5,7 +5,7 @@ server:
     #uri-encoding: utf-8
 spring:
   application:
-    name: high-concurrency-shopping
+    name: high-concurrency-e-commerce-sec-kill
 
   thymeleaf:
     prefix: classpath:/templates/
